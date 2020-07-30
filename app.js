@@ -14,3 +14,6 @@ btn.addEventListener('click', () => {
     video.play();
   }
 });
+
+// preloader
+const preloader = document.querySelector('.preloader');
